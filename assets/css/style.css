@@ -10,12 +10,11 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  /* color: #122f57; */
   color: #272829;
 }
 
 a {
-  color: #c8d9e0;
+  color: #149ddd;
   text-decoration: none;
 }
 
@@ -289,8 +288,6 @@ section {
 
 .section-title {
   padding-bottom: 30px;
-  margin-left: 370px;
-  /* width: 100%; */
 }
 
 .section-title h2 {
@@ -811,14 +808,12 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact {
-  width: 100%;
   padding-bottom: 130px;
 }
 
 .contact .info {
-  padding: 60px;
-  margin-left: 300px;
-  background: rgb(248, 246, 246);
+  padding: 30px;
+  background: #fff;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
